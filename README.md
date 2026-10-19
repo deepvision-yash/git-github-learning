@@ -16,3 +16,10 @@ Learning Git branches, merging, and GitHub remote workflows.
 ## Next Learning Goals
 
 - Practise collaboration and pull requests.
+
+## Git Workflow Checklist
+
+- Check changes with git status and git diff.
+- Stage reviewed changes with git add.
+- Commit with a clear message.
+- Push the branch to GitHub.
