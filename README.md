@@ -12,3 +12,7 @@ My practical workspace for learning Git and GitHub.
 ## Current Progress
 
 Learning Git branches, merging, and GitHub remote workflows.
+
+## Next Learning Goals
+
+- Practise collaboration and pull requests.
