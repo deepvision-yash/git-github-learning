@@ -1,1 +1,2 @@
 Staging and committing are different steps.
+Feature branch practice: learning isolated development.
