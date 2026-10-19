@@ -8,3 +8,7 @@ My practical workspace for learning Git and GitHub.
 - Practice commits and branches.
 - Learn professional collaboration workflows.
 - Apply Git to AI engineering projects.
+
+## Current Progress
+
+Learning Git branches, merging, and GitHub remote workflows.
